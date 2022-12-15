@@ -1,0 +1,38 @@
+h1{
+    text-align: center;
+    color:rgb(38, 37, 73) ;
+    font-family: 'Parisienne', cursive;
+}
+body{
+    color: rgb(129, 107, 148);
+    font-family: 'Caveat', cursive;
+    background-color: aliceblue;
+    font-size: 20px;
+}
+.card{
+    color: rgb(55, 43, 77);
+    font-family: 'Playfair Display', serif;
+    text-align: center;
+}
+nav{
+    font-family: 'Playfair Display', serif; 
+    font-size: medium;
+    margin: 0%;
+}
+.about{
+    text-align: center;
+    font-size: medium;
+    font-family: 'Dancing Script', cursive; 
+}
+.gradient{
+    background-color: bisque;
+}
+h3{
+    font-size: medium;
+}
+.gradient1{
+    background-color: bisque;
+    font-family: 'Playfair Display', serif; 
+    font-size: medium;
+    margin: 0%;
+}
